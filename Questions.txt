@@ -6,7 +6,7 @@
   6.  https://leetcode.com/problems/unique-number-of-occurrences/
 ✓ 7.  https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
 ✓ 8.  https://leetcode.com/problems/find-all-duplicates-in-an-array/
-  9.  https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
+✓ 9.  https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
   10. https://www.codingninjas.com/codestudio/problems/pair-sum_697295
   11. https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028
   12. https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/
