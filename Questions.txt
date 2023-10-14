@@ -41,3 +41,8 @@
   41. https://leetcode.com/problems/string-compression/
   42. https://leetcode.com/problems/permutation-in-string
   43. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+  44. https://www.codingninjas.com/studio/problems/print-like-a-wave_893268
+  45. https://leetcode.com/problems/spiral-matrix/
+  46. https://leetcode.com/problems/rotate-image/
+  47. https://leetcode.com/problems/search-a-2d-matrix/
+  48. https://leetcode.com/problems/search-a-2d-matrix-ii/
