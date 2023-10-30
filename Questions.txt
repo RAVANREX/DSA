@@ -2,6 +2,7 @@
 ✓ 2.  https://leetcode.com/problems/complement-of-base-10-integer/
 ✓ 3.  https://leetcode.com/problems/power-of-two/
 ✓ 4.  https://leetcode.com/problems/reverse-string/
+  4a. https://leetcode.com/problems/number-of-1-bits
 ✓ 5.  https://www.codingninjas.com/codestudio/problems/find-unique_625159
   6.  https://leetcode.com/problems/unique-number-of-occurrences/
 ✓ 7.  https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
