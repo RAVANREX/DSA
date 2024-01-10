@@ -2,15 +2,15 @@
 ✓ 2.  https://leetcode.com/problems/complement-of-base-10-integer/
 ✓ 3.  https://leetcode.com/problems/power-of-two/
 ✓ 4.  https://leetcode.com/problems/reverse-string/
-  4a. https://leetcode.com/problems/number-of-1-bits
+✓ 4a. https://leetcode.com/problems/number-of-1-bits
 ✓ 5.  https://www.codingninjas.com/codestudio/problems/find-unique_625159
-  6.  https://leetcode.com/problems/unique-number-of-occurrences/
+✓ 6.  https://leetcode.com/problems/unique-number-of-occurrences/    --partial
 ✓ 7.  https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
 ✓ 8.  https://leetcode.com/problems/find-all-duplicates-in-an-array/
-✓ 9.  https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
+✓ 9.  https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149    --partial
 ✓ 10. https://www.codingninjas.com/codestudio/problems/pair-sum_697295
   11. https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028
-  12. https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/
+  12. https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
   13. https://leetcode.com/problems/sort-colors/   OR  
   14. https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055
   15. https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549/
