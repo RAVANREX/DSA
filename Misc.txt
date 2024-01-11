@@ -1,0 +1,10 @@
+Companies:
+
+FAANG
+10UP
+VMware
+Tejas Network
+Datadog
+Appwrite
+Elastic
+Multidocs
