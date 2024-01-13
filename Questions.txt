@@ -2,48 +2,49 @@
 ✓ 2.  https://leetcode.com/problems/complement-of-base-10-integer/
 ✓ 3.  https://leetcode.com/problems/power-of-two/
 ✓ 4.  https://leetcode.com/problems/reverse-string/
-✓ 4a. https://leetcode.com/problems/number-of-1-bits
-✓ 5.  https://www.codingninjas.com/codestudio/problems/find-unique_625159
-✓ 6.  https://leetcode.com/problems/unique-number-of-occurrences/  --partial
-✓ 7.  https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
-✓ 8.  https://leetcode.com/problems/find-all-duplicates-in-an-array/
-✓ 9.  https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149  --partial
-✓ 10. https://www.codingninjas.com/codestudio/problems/pair-sum_697295
-✓ 11. https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028  --partial
-✓ 12. https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
-✓ 13. https://leetcode.com/problems/sort-colors/   OR  
-✓ 14. https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055
-  15. https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549/
-  16. https://leetcode.com/problems/peak-index-in-a-mountain-array/
-  17. https://leetcode.com/problems/find-pivot-index/
-  18. https://leetcode.com/problems/search-in-rotated-sorted-array/
-  19. https://www.codingninjas.com/studio/problems/square-root_893351
-  20. https://www.codingninjas.com/studio/problems/ayush-and-ninja-test_1097574/
-  21. https://www.codingninjas.com/studio/problems/painter's-partition-problem_1089557/
-  22. https://www.codingninjas.com/studio/problems/aggressive-cows_1082559/
-  23. https://www.spoj.com/problems/EKO/
-  24. https://www.codingninjas.com/studio/problems/cooking-ninjas_1164174/
-  25. https://www.codingninjas.com/studio/problems/selection-sort_981162/
-  26. https://www.codingninjas.com/studio/problems/bubble-sort_980524/
-  27. https://www.codingninjas.com/studio/problems/insertion-sort_3155179/
-  28. https://www.codingninjas.com/studio/problems/reverse-the-array_1262298/
-  29. https://leetcode.com/problems/merge-sorted-array/
-  30. https://leetcode.com/problems/move-zeroes/
-  31. https://leetcode.com/problems/rotate-array/
-  32. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
-  33. https://www.codingninjas.com/studio/problems/sum-of-two-arrays_893186/
-  34. https://leetcode.com/problems/reverse-string/
-  35. https://www.codingninjas.com/studio/problems/check-if-the-string-is-a-palindrome_1062633
-  36. https://leetcode.com/problems/valid-palindrome/
-  37. https://leetcode.com/problems/reverse-words-in-a-string-ii/
-  38. https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1
-  39. https://www.codingninjas.com/studio/problems/replace-spaces_1172172
-  40. https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
-  41. https://leetcode.com/problems/string-compression/
-  42. https://leetcode.com/problems/permutation-in-string
-  43. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
-  44. https://www.codingninjas.com/studio/problems/print-like-a-wave_893268
-  45. https://leetcode.com/problems/spiral-matrix/
-  46. https://leetcode.com/problems/rotate-image/
-  47. https://leetcode.com/problems/search-a-2d-matrix/
-  48. https://leetcode.com/problems/search-a-2d-matrix-ii/
+✓ 5.  https://leetcode.com/problems/number-of-1-bits
+✓ 6.  https://www.codingninjas.com/codestudio/problems/find-unique_625159
+✓ 7.  https://leetcode.com/problems/unique-number-of-occurrences/  --partial
+✓ 8.  https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
+✓ 9.  https://leetcode.com/problems/find-all-duplicates-in-an-array/
+✓ 10. https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149  --partial
+✓ 11. https://www.codingninjas.com/codestudio/problems/pair-sum_697295
+✓ 12. https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028  --partial
+✓ 13. https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
+✓ 14. https://leetcode.com/problems/sort-colors/   OR  
+✓ 15. https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055
+✓ 16. https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549/
+  17. https://leetcode.com/problems/peak-index-in-a-mountain-array/
+  18. https://leetcode.com/problems/find-pivot-index/
+  19. https://leetcode.com/problems/search-in-rotated-sorted-array/
+  20. https://www.codingninjas.com/studio/problems/square-root_893351
+  21. https://www.codingninjas.com/studio/problems/ayush-and-ninja-test_1097574/
+  22. https://www.codingninjas.com/studio/problems/painter's-partition-problem_1089557/
+  23. https://www.codingninjas.com/studio/problems/aggressive-cows_1082559/
+  24. https://www.spoj.com/problems/EKO/
+  25. https://www.codingninjas.com/studio/problems/cooking-ninjas_1164174/
+  26. https://www.codingninjas.com/studio/problems/selection-sort_981162/
+  27. https://www.codingninjas.com/studio/problems/bubble-sort_980524/
+  28. https://www.codingninjas.com/studio/problems/insertion-sort_3155179/
+  29. https://www.codingninjas.com/studio/problems/reverse-the-array_1262298/
+  30. https://leetcode.com/problems/merge-sorted-array/
+  31. https://leetcode.com/problems/move-zeroes/
+  32. https://leetcode.com/problems/rotate-array/
+  33. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+  34. https://www.codingninjas.com/studio/problems/sum-of-two-arrays_893186/
+  35. https://leetcode.com/problems/reverse-string/
+  36. https://www.codingninjas.com/studio/problems/check-if-the-string-is-a-palindrome_1062633
+  37. https://leetcode.com/problems/valid-palindrome/
+  38. https://leetcode.com/problems/reverse-words-in-a-string-ii/
+  39. https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1
+  40. https://www.codingninjas.com/studio/problems/replace-spaces_1172172
+  41. https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+  42. https://leetcode.com/problems/string-compression/
+  43. https://leetcode.com/problems/permutation-in-string
+  44. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+  45. https://www.codingninjas.com/studio/problems/print-like-a-wave_893268
+  46. https://leetcode.com/problems/spiral-matrix/
+  47. https://leetcode.com/problems/rotate-image/
+  48. https://leetcode.com/problems/search-a-2d-matrix/
+  49. https://leetcode.com/problems/search-a-2d-matrix-ii/
+  
