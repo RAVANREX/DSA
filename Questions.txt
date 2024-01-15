@@ -16,8 +16,8 @@
 ✓ 16. https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549/
 ✓ 17. https://leetcode.com/problems/peak-index-in-a-mountain-array/
 ✓ 18. https://leetcode.com/problems/find-pivot-index/
-  19. https://leetcode.com/problems/search-in-rotated-sorted-array/
-  20. https://www.codingninjas.com/studio/problems/square-root_893351
+✓ 19. https://leetcode.com/problems/search-in-rotated-sorted-array/
+✓ 20. https://www.codingninjas.com/studio/problems/square-root_893351
   21. https://www.codingninjas.com/studio/problems/ayush-and-ninja-test_1097574/
   22. https://www.codingninjas.com/studio/problems/painter's-partition-problem_1089557/
   23. https://www.codingninjas.com/studio/problems/aggressive-cows_1082559/
