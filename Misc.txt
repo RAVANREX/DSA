@@ -8,6 +8,8 @@ Datadog
 Appwrite
 Elastic
 Multidocs
+Hyland
+NRI Fintech
 
 --------------
 
